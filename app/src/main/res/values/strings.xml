@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">轻笺</string>
+    
+    <!-- 登录相关 -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="remember_me">记住我</string>
+    <string name="forgot_password">忘记密码</string>
+    <string name="dont_have_account">还没有账号？</string>
+    <string name="already_have_account">已有账号？</string>
+    <string name="login_failed">登录失败，请检查用户名和密码</string>
+    <string name="all_fields_required">请填写所有必填项</string>
+    
+    <!-- 登录注册 -->
+    <string name="confirm_password">确认密码</string>
+    <string name="email">邮箱</string>
+    <string name="full_name">姓名</string>
+    <string name="create_account">创建账号</string>
+    <string name="error_user_not_found">用户不存在或已失效</string>
+    <string name="register_failed">注册失败，用户名或邮箱可能已存在</string>
+    <string name="login_failed_after_register">登录失败，请手动登录</string>
+    <string name="error_fullname_empty">请输入姓名</string>
+    <string name="error_email_empty">请输入邮箱</string>
+    <string name="error_confirm_password_empty">请确认密码</string>
+    <string name="error_username_exists">用户名已存在</string>
+    <string name="registering">注册中...</string>
+    <string name="username_email_mismatch">用户名或邮箱不匹配</string>
+    <string name="password_reset_failed">重置密码失败，请检查用户名和邮箱</string>
+    
+    <!-- 主页 -->
+    <string name="my_notes">我的笔记</string>
+    <string name="search_notes">搜索笔记…</string>
+    <string name="no_notes_yet">暂无笔记</string>
+    <string name="empty_notes">还没有笔记，点击"+"创建一个吧</string>
+    <string name="home">首页</string>
+    <string name="add">添加</string>
+    <string name="settings">设置</string>
+    <string name="profile">个人资料</string>
+    
+    <!-- 笔记相关 -->
+    <string name="new_note">新建笔记</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="view_note">查看笔记</string>
+    <string name="create_note">创建笔记</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="share">分享</string>
+    <string name="favorite">收藏</string>
+    <string name="start_writing">请输入内容…</string>
+    <string name="add_note">添加笔记</string>
+    <string name="edit">编辑</string>
+    <string name="back">返回</string>
+    
+    <!-- 多媒体功能 -->
+    <string name="camera">相机</string>
+    <string name="gallery">相册</string>
+    <string name="voice">语音</string>
+    <string name="attach">附件</string>
+    <string name="more">更多</string>
+    
+    <!-- 个人资料 -->
+    <string name="edit_profile">编辑资料</string>
+    <string name="change_password">修改密码</string>
+    <string name="notifications">通知</string>
+    <string name="privacy">隐私与安全</string>
+    <string name="logout">退出登录</string>
+    <string name="account">账户</string>
+    <string name="profile_picture">头像</string>
+    <string name="arrow_right">向右箭头</string>
+    <string name="attachment_icon">附件图标</string>
+    <string name="preview">预览</string>
+    <string name="remove">删除</string>
+    <string name="change_avatar">更换头像</string>
+    <string name="profile_updated">资料已更新</string>
+    <string name="error_updating_profile">更新资料失败</string>
+    <string name="appearance">外观</string>
+    <string name="language">语言</string>
+    <string name="help_support">帮助与支持</string>
+    <string name="cancel">取消</string>
+    <string name="logout_confirmation">确定要退出登录吗？</string>
+    <string name="current_password">当前密码</string>
+    <string name="new_password">新密码</string>
+    <string name="password_requirements">密码要求</string>
+    <string name="password_req_length">至少8个字符</string>
+    <string name="password_req_uppercase">至少包含1个大写字母</string>
+    <string name="password_req_number">至少包含1个数字</string>
+    <string name="password_changed">密码修改成功</string>
+    <string name="password_mismatch">两次输入的新密码不一致</string>
+    <string name="password_incorrect">当前密码不正确</string>
+    <string name="password_requirements_not_met">新密码不符合安全要求</string>
+    
+    <!-- 外观设置相关 -->
+    <string name="theme">主题</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_small">小</string>
+    <string name="font_medium">中</string>
+    <string name="font_large">大</string>
+    <string name="font_preview">文本预览</string>
+    <string name="font_preview_text">这是不同字体大小的预览效果</string>
+    <string name="note_card_style">笔记卡片样式</string>
+    <string name="card_style_default">默认</string>
+    <string name="card_style_compact">紧凑</string>
+    <string name="card_style_grid">网格</string>
+    <string name="save_appearance">保存设置</string>
+    <string name="appearance_saved">外观设置已保存</string>
+    
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="loading">加载中…</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    
+    <!-- 笔记相关 -->
+    <string name="notes">笔记</string>
+    <string name="note">笔记</string>
+    <string name="no_notes">暂无笔记</string>
+    <string name="search">搜索</string>
+    <string name="clear">清空</string>
+    
+    <!-- 附件相关 -->
+    <string name="attachments">附件</string>
+    <string name="image">图片</string>
+    <string name="audio">音频</string>
+    <string name="file">文件</string>
+    
+    <!-- 登录/注册 -->
+    <string name="no_account">没有账号？点击注册</string>
+    <string name="have_account">已有账号？点击登录</string>
+    
+    <!-- 错误消息 -->
+    <string name="error_username_empty">用户名不能为空</string>
+    <string name="error_password_empty">密码不能为空</string>
+    <string name="error_password_short">密码长度至少为6位</string>
+    <string name="error_passwords_not_match">两次密码输入不一致</string>
+    <string name="error_login_failed">登录失败，请检查用户名和密码</string>
+    <string name="error_network">网络错误，请重试</string>
+    <string name="error_invalid_email">邮箱格式不正确</string>
+    
+    <!-- 修改密码 -->
+    <string name="old_password">旧密码</string>
+    
+    <!-- 关于页面 -->
+    <string name="version_format">版本 %s</string>
+    <string name="app_description">轻笺是一款简洁、易用的记事本应用，支持中英文双语界面。它提供了直观的记事本管理功能，让您可以随时随地记录生活中的灵感与思考。</string>
+    <string name="copyright">©z1HwanG 保留所有权利</string>
+    
+    <!-- 忘记密码相关 -->
+    <string name="forgot_password_description">请输入您的用户名和注册邮箱以重置密码。</string>
+    <string name="verification_code">验证码</string>
+    <string name="send_code">发送验证码</string>
+    <string name="reset_password">重置密码</string>
+    <string name="back_to_login">返回登录</string>
+    <string name="email_sent">验证码已发送到您的邮箱</string>
+    <string name="password_reset_success">密码重置成功</string>
+    <string name="password_not_match">两次输入的密码不一致</string>
+    <string name="invalid_email">请输入有效的邮箱地址</string>
+    <string name="invalid_code">验证码无效</string>
+    <string name="code_sent">验证码已发送</string>
+    <string name="please_wait">请稍候…</string>
+    
+    <!-- 删除笔记相关 -->
+    <string name="delete_note">删除笔记</string>
+    <string name="confirm_delete">确认删除</string>
+    <string name="confirm_delete_message">确定要删除这条笔记吗？</string>
+</resources>

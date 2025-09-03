@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QingNote</string>
+    
+    <!-- 通用 -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="more">More</string>
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    
+    <!-- 登录/注册 -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="create_account">Create Account</string>
+    <string name="all_fields_required">Please fill in all required fields</string>
+    <string name="login_failed">Login failed, please check your username and password</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="password_incorrect">Current password is incorrect</string>
+    <string name="password_changed">Password changed successfully</string>
+    <string name="error_user_not_found">User not found or session expired</string>
+    <string name="error_updating_profile">Failed to update profile</string>
+    <string name="current_password">Current Password</string>
+    <string name="register_failed">Registration failed, username or email may already exist</string>
+    <string name="login_failed_after_register">Login failed, please login manually</string>
+    <string name="error_fullname_empty">Please enter your full name</string>
+    <string name="error_username_exists">Username already exists</string>
+    <string name="registering">Registering...</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- 笔记相关 -->
+    <string name="notes">Notes</string>
+    <string name="note">Note</string>
+    <string name="new_note">New Note</string>
+    <string name="create_note">Create Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="start_writing">Start writing…</string>
+    <string name="no_notes">No notes yet, tap + to create one</string>
+    <string name="search_notes">Search notes…</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    
+    <!-- 附件相关 -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="voice">Voice</string>
+    <string name="attach">Attach</string>
+    <string name="attachments">Attachments</string>
+    <string name="image">Image</string>
+    <string name="audio">Audio</string>
+    <string name="file">File</string>
+    <string name="preview">Preview</string>
+    <string name="remove">Remove</string>
+    
+    <!-- 设置/个人资料 -->
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="account">Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="language">Language</string>
+    <string name="help_support">About</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    
+    <!-- 底部导航 -->
+    <string name="home">Home</string>
+    <string name="add">Add</string>
+    
+    <!-- 错误消息 -->
+    <string name="error_username_empty">Username cannot be empty</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    <string name="error_login_failed">Login failed, please check your credentials</string>
+    <string name="error_network">Network error, please try again</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_confirm_password_empty">Please confirm your password</string>
+    <string name="username_email_mismatch">Username or email does not match</string>
+    <string name="password_reset_failed">Password reset failed, please check your username and email</string>
+    <string name="password_reset_success">Password has been reset successfully</string>
+    <string name="forgot_password_description">Please enter your username and registered email to reset password.</string>
+    
+    <!-- About screen -->
+    <string name="version_format">Version %s</string>
+    <string name="app_description">QingNote is a simple, easy-to-use notepad application that supports a bilingual interface in English and Chinese. It provides intuitive notepad management features so you can record your life\'s inspirations and thoughts anytime, anywhere.</string>
+    <string name="copyright">©z1HwanG All rights reserved.</string>
+    
+    <!-- Reset Password -->
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="reset_password_instruction">Please enter your username and registered email to reset password.</string>
+</resources> 

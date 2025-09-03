@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 外部存储应用专属目录 -->
+    <external-files-path
+        name="my_images"
+        path="Pictures" />
+    <external-files-path
+        name="my_audio"
+        path="Audio" />
+    <external-files-path
+        name="my_music"
+        path="Music" />
+    <external-files-path
+        name="my_videos"
+        path="Movies" />
+    <external-files-path
+        name="my_docs"
+        path="Documents" />
+        
+    <!-- 缓存目录 -->
+    <cache-path
+        name="my_cache"
+        path="/" />
+        
+    <!-- 内部存储应用专属目录 -->
+    <files-path
+        name="internal_files"
+        path="/" />
+    
+    <!-- 附件专用目录 -->
+    <files-path
+        name="attachments"
+        path="attachments/" />
+    
+    <!-- 头像专用目录 -->
+    <files-path
+        name="avatars"
+        path="avatars/" />
+        
+    <!-- 外部存储根目录（谨慎使用） -->
+    <external-path
+        name="external_storage"
+        path="." />
+</paths> 

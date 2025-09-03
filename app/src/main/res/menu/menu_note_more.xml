@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_clear"
+        android:title="清空笔记"
+        android:icon="@drawable/ic_delete" />
+    
+    <item
+        android:id="@+id/menu_font_size"
+        android:title="字体大小"
+        android:icon="@drawable/ic_text_size" />
+    
+<!--    <item-->
+<!--        android:id="@+id/menu_text_color"-->
+<!--        android:title="文字颜色"-->
+<!--        android:icon="@drawable/ic_color_lens" />-->
+</menu> 
